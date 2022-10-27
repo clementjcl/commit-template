@@ -1,0 +1,1 @@
+A template used in comments when commit at Git
